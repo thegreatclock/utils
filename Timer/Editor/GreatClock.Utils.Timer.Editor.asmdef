@@ -1,0 +1,17 @@
+{
+    "name": "GreatClock.Utils.Timer.Editor",
+    "references": [
+        "GreatClock.Collections",
+        "GreatClock.Utils.Timer"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

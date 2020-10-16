@@ -1,0 +1,14 @@
+{
+    "name": "GreatClock.Utils.Tools",
+    "references": [
+        "GreatClock.Collections"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
